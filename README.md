@@ -31,4 +31,4 @@ C# · .NET · Blazor · Entity Framework Core
 
 ## Auteur
 
-[Pierre Kossi DEGBOEVI](https://alexcruss.github.io/portfolio/)
+[Pierre Kossi DEGBOEVI](https://pierredegboevi.com/)
